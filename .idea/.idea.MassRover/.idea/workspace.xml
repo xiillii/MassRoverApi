@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2ba7dae-3d33-4fa8-9d64-623da42a18a9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MassRover/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MassRover/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MassRover/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MassRover/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MassRover/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRover.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Controllers/ProductsController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Controllers/ValuesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Errors/ErrorCode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Errors/ErrorMessage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Errors/ErrorService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/MassRoverApi.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Models/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MassRoverApi/appsettings.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Product.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MassRoverApi/Models/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding>
+                <marker date="1532062658720" expanded="true" signature="44:214" ph="{...}" />
+                <marker date="1532062658720" expanded="true" signature="71:212" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorCode.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorCode.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding>
+                <marker date="1532063128229" expanded="true" signature="29:142" ph="{...}" />
+                <marker date="1532063128229" expanded="true" signature="57:140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorMessage.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorMessage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+              <folding>
+                <marker date="1532063275856" expanded="true" signature="29:908" ph="{...}" />
+                <marker date="1532063275856" expanded="true" signature="70:338" ph="{...}" />
+                <marker date="1532063275856" expanded="true" signature="398:630" ph="{...}" />
+                <marker date="1532063275856" expanded="true" signature="448:624" ph="{...}" />
+                <marker date="1532063275856" expanded="true" signature="690:906" ph="{...}" />
+                <marker date="1532063275856" expanded="true" signature="740:900" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding>
+                <marker date="1532064033166" expanded="true" signature="44:708" ph="{...}" />
+                <marker date="1532064033166" expanded="true" signature="83:706" ph="{...}" />
+                <marker date="1532064033166" expanded="true" signature="164:374" ph="{...}" />
+                <marker date="1532064033166" expanded="true" signature="237:363" ph="{...}" />
+                <marker date="1532064033166" expanded="true" signature="461:700" ph="{...}" />
+                <marker date="1532064033166" expanded="true" signature="534:689" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MassRoverApi/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <marker date="1532062520983" expanded="true" signature="6:128" ph="..." />
+                <marker date="1532062520983" expanded="true" signature="164:972" ph="{...}" />
+                <marker date="1532062520983" expanded="true" signature="269:970" ph="{...}" />
+                <marker date="1532062520983" expanded="true" signature="374:448" ph="{...}" />
+                <marker date="1532062520983" expanded="true" signature="551:599" ph="{...}" />
+                <marker date="1532062520983" expanded="true" signature="696:716" ph="{...}" />
+                <marker date="1532062520983" expanded="true" signature="828:848" ph="{...}" />
+                <marker date="1532062520983" expanded="true" signature="944:964" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductsController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MassRoverApi/Controllers/ProductsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="103" column="102" selection-start-line="103" selection-start-column="102" selection-end-line="103" selection-end-column="102" />
+              <folding>
+                <marker date="1532066845928" expanded="true" signature="6:152" ph="..." />
+                <marker date="1532066845928" expanded="true" signature="188:4575" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="306:4573" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="388:593" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="605:788" ph="/// Get a list of all prodcts ... " />
+                <marker date="1532066845928" expanded="true" signature="908:962" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="973:1261" ph="/// Gets product by id ... " />
+                <marker date="1532066845928" expanded="true" signature="1464:1795" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="1578:1642" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="1659:1785" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="1805:2044" ph="/// Creates a new product ... " />
+                <marker date="1532066845928" expanded="true" signature="2187:2370" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="2380:2811" ph="/// Replaces a product ... " />
+                <marker date="1532066845928" expanded="true" signature="3096:3715" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="3140:3257" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="3386:3521" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="3538:3672" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="3725:4008" ph="/// Deletes a product ... " />
+                <marker date="1532066845928" expanded="true" signature="4196:4567" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="4310:4381" ph="{...}" />
+                <marker date="1532066845928" expanded="true" signature="4398:4524" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MassRoverApi/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+              <folding>
+                <marker date="1532066845931" expanded="true" signature="6:506" ph="..." />
+                <marker date="1532066845931" expanded="true" signature="530:1932" ph="{...}" />
+                <marker date="1532066845931" expanded="true" signature="557:1930" ph="{...}" />
+                <marker date="1532066845931" expanded="true" signature="616:679" ph="{...}" />
+                <marker date="1532066845931" expanded="true" signature="902:1320" ph="{...}" />
+                <marker date="1532066845931" expanded="true" signature="1042:1308" ph="{...}" />
+                <marker date="1532066845931" expanded="true" signature="1508:1924" ph="{...}" />
+                <marker date="1532066845931" expanded="true" signature="1555:1632" ph="{...}" />
+                <marker date="1532066845931" expanded="true" signature="1649:1708" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MassRoverApi/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED07561A-F00F-4966-8EBC-547EA3E7CE17/3c/0e5c0a8f/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MassRoverApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MassRoverApi/Controllers/ProductsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorCode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MassRoverApi/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MassRoverApi/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/MassRoverApi/Errors/ErrorCode.cs" />
+        <option value="$PROJECT_DIR$/MassRoverApi/Errors/ErrorMessage.cs" />
+        <option value="$PROJECT_DIR$/MassRoverApi/Errors/ErrorService.cs" />
+        <option value="$PROJECT_DIR$/MassRoverApi/Controllers/ProductsController.cs" />
+        <option value="$PROJECT_DIR$/MassRoverApi/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="173" />
+    <option name="width" value="1440" />
+    <option name="height" value="846" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MassRover (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MassRover (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MassRoverApi" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MassRover (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MassRoverApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MassRover (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MassRoverApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Errors" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MassRover (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MassRoverApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MassRoverApi/bin/Debug/netcoreapp2.1/MassRoverApi.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MassRoverApi" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MassRoverApi/MassRoverApi.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2ba7dae-3d33-4fa8-9d64-623da42a18a9" name="Default" comment="" />
+      <created>1532062510386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532062510386</updated>
+      <workItem from="1532062513794" duration="4366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4366000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="846" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32977304" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MassRoverApi/Models/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <marker date="1532062658720" expanded="true" signature="44:214" ph="{...}" />
+            <marker date="1532062658720" expanded="true" signature="71:212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorCode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <marker date="1532063128229" expanded="true" signature="29:142" ph="{...}" />
+            <marker date="1532063128229" expanded="true" signature="57:140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+          <folding>
+            <marker date="1532063275856" expanded="true" signature="29:908" ph="{...}" />
+            <marker date="1532063275856" expanded="true" signature="70:338" ph="{...}" />
+            <marker date="1532063275856" expanded="true" signature="398:630" ph="{...}" />
+            <marker date="1532063275856" expanded="true" signature="448:624" ph="{...}" />
+            <marker date="1532063275856" expanded="true" signature="690:906" ph="{...}" />
+            <marker date="1532063275856" expanded="true" signature="740:900" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MassRoverApi/Errors/ErrorService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <marker date="1532064033166" expanded="true" signature="44:708" ph="{...}" />
+            <marker date="1532064033166" expanded="true" signature="83:706" ph="{...}" />
+            <marker date="1532064033166" expanded="true" signature="164:374" ph="{...}" />
+            <marker date="1532064033166" expanded="true" signature="237:363" ph="{...}" />
+            <marker date="1532064033166" expanded="true" signature="461:700" ph="{...}" />
+            <marker date="1532064033166" expanded="true" signature="534:689" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED07561A-F00F-4966-8EBC-547EA3E7CE17/3c/0e5c0a8f/ControllerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MassRoverApi/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <marker date="1532062520983" expanded="true" signature="6:128" ph="..." />
+            <marker date="1532062520983" expanded="true" signature="164:972" ph="{...}" />
+            <marker date="1532062520983" expanded="true" signature="269:970" ph="{...}" />
+            <marker date="1532062520983" expanded="true" signature="374:448" ph="{...}" />
+            <marker date="1532062520983" expanded="true" signature="551:599" ph="{...}" />
+            <marker date="1532062520983" expanded="true" signature="696:716" ph="{...}" />
+            <marker date="1532062520983" expanded="true" signature="828:848" ph="{...}" />
+            <marker date="1532062520983" expanded="true" signature="944:964" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MassRoverApi/Controllers/ProductsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="103" column="102" selection-start-line="103" selection-start-column="102" selection-end-line="103" selection-end-column="102" />
+          <folding>
+            <marker date="1532066845928" expanded="true" signature="6:152" ph="..." />
+            <marker date="1532066845928" expanded="true" signature="188:4575" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="306:4573" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="388:593" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="605:788" ph="/// Get a list of all prodcts ... " />
+            <marker date="1532066845928" expanded="true" signature="908:962" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="973:1261" ph="/// Gets product by id ... " />
+            <marker date="1532066845928" expanded="true" signature="1464:1795" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="1578:1642" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="1659:1785" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="1805:2044" ph="/// Creates a new product ... " />
+            <marker date="1532066845928" expanded="true" signature="2187:2370" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="2380:2811" ph="/// Replaces a product ... " />
+            <marker date="1532066845928" expanded="true" signature="3096:3715" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="3140:3257" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="3386:3521" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="3538:3672" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="3725:4008" ph="/// Deletes a product ... " />
+            <marker date="1532066845928" expanded="true" signature="4196:4567" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="4310:4381" ph="{...}" />
+            <marker date="1532066845928" expanded="true" signature="4398:4524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MassRoverApi/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <marker date="1532066845931" expanded="true" signature="6:506" ph="..." />
+            <marker date="1532066845931" expanded="true" signature="530:1932" ph="{...}" />
+            <marker date="1532066845931" expanded="true" signature="557:1930" ph="{...}" />
+            <marker date="1532066845931" expanded="true" signature="616:679" ph="{...}" />
+            <marker date="1532066845931" expanded="true" signature="902:1320" ph="{...}" />
+            <marker date="1532066845931" expanded="true" signature="1042:1308" ph="{...}" />
+            <marker date="1532066845931" expanded="true" signature="1508:1924" ph="{...}" />
+            <marker date="1532066845931" expanded="true" signature="1555:1632" ph="{...}" />
+            <marker date="1532066845931" expanded="true" signature="1649:1708" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

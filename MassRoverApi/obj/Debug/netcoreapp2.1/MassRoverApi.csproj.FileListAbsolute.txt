@@ -1,0 +1,15 @@
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/bin/Debug/netcoreapp2.1/MassRoverApi.xml
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/bin/Debug/netcoreapp2.1/MassRoverApi.deps.json
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/bin/Debug/netcoreapp2.1/MassRoverApi.runtimeconfig.json
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/bin/Debug/netcoreapp2.1/MassRoverApi.runtimeconfig.dev.json
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/bin/Debug/netcoreapp2.1/MassRoverApi.dll
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/bin/Debug/netcoreapp2.1/MassRoverApi.pdb
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.csprojResolveAssemblyReference.cache
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.csproj.CoreCompileInputs.cache
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.RazorAssemblyInfo.cache
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.RazorAssemblyInfo.cs
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.AssemblyInfoInputs.cache
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.AssemblyInfo.cs
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.RazorTargetAssemblyInfo.cache
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.dll
+/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/Debug/netcoreapp2.1/MassRoverApi.pdb

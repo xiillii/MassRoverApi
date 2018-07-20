@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MassRoverApi</name>
+    </assembly>
+    <members>
+        <member name="M:MassRoverApi.Controllers.ProductsController.GetProducts">
+            <summary>
+            Get a list of all prodcts
+            </summary>
+            <returns>List of products</returns>
+            <response code="200">List of products</response>
+        </member>
+        <member name="M:MassRoverApi.Controllers.ProductsController.GetProductById(System.Int32)">
+            <summary>
+            Gets product by id
+            </summary>
+            <param name="id">Product id</param>
+            <returns>Product</returns>
+            <response code="200">Product</response>
+            <response code="404">No Product found for the specified id</response>
+        </member>
+        <member name="M:MassRoverApi.Controllers.ProductsController.CreateProduct(MassRoverApi.Models.Product)">
+            <summary>
+            Creates a new product
+            </summary>
+            <param name="product">New Product</param>
+            <returns>Product</returns>
+            <response code="201">Created Product for the request</response>
+        </member>
+        <member name="M:MassRoverApi.Controllers.ProductsController.UpdateProduct(System.Int32,MassRoverApi.Models.Product)">
+            <summary>
+            Replaces a product
+            </summary>
+            <param name="id">New version of the Product</param>
+            <param name="product">New version of the product</param>
+            <returns></returns>
+            <response code="204">No Content</response>
+            <response code="400">Request mistmatch</response>
+            <response code="404">No Product found for the specified id</response>
+        </member>
+        <member name="M:MassRoverApi.Controllers.ProductsController.DeleteProduct(System.Int32)">
+            <summary>
+            Deletes a product
+            </summary>
+            <param name="id">Product id</param>
+            <returns></returns>
+            <response code="204">No Content</response>
+            <response code="404">No product found for the specified id</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/MassRoverApi.csproj",
+    "projectName": "MassRoverApi",
+    "projectPath": "/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/MassRoverApi.csproj",
+    "outputPath": "/Users/xiillii/Proyectos/NetCore/MassRover/MassRoverApi/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.Extensions.PlatformAbstractions": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
